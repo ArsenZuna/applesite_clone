@@ -2,10 +2,10 @@ import Navbar from "./components/Navbar.jsx";
 import Hero from "./components/Hero.jsx";
 import Highlights from "./components/Highlights.jsx";
 import Model from "./components/Model.jsx";
-import * as Sentry from '@sentry/react';
 import Features from "./components/Features.jsx";
 import Chip from "./components/Chip.jsx";
 import Footer from "./components/Footer.jsx";
+import * as Sentry from '@sentry/react';
 
 
 const App = () => {
